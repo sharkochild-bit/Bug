@@ -50,9 +50,13 @@
 - paint.mp4  -  There are a lot of such bugs in the game, but this one stuck out to me. The painting seems to be floating above the table.
 
 ### Phasmaphobia
-- UV.jpg
-- basic bag.jpg
-- laser.jpg
-- man.jpg
-- reflection.jpg
-- trashcan x‑ray.jpg
+- UV.jpg - The light from the flashlight does not spread onto the surface. This is a common phenomenon when you hold it close to a wall.
+- basic bag.jpg  -  The name speaks for itself. This happens because when objects are in the hand, they do not collide.
+- laser.jpg  -  Apparently, the laser doesn’t have any defined interaction with objects, which is why it shines through walls.
+- man.jpg  -  This is a static shot; he really was lying in that pose.
+- reflection.jpg  -  The reflection of the TV. First, this TV is positioned to the left, where the reflection leads to the wall; second, it reflects with a glitch even when it’s turned off or if there’s no electricity in the house. My favorite bug in this game.
+- trashcan x‑ray.jpg  -  This is probably due to the fact that the camera lens passes through the trash can, which is related to an underdeveloped object collision.
+
+### The LEGO Movie videogame
+- He is sleeping or no.mp4  -  Judging by the lines, it’s clear that he should be sleeping, but in the first scene he’s awake.
+- I paly in PC.mp4  -  A repeat of the story with LEGO Marvel Avengers.
